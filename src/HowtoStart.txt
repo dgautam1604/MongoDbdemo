@@ -1,0 +1,9 @@
+Refer to this link
+https://stackoverflow.com/questions/53453006/swagger-ui-html-page-not-working-springboot
+
+or
+in your pom.xml file.
+
+Access the page via the following url (avoid that .html extension): http://localhost:8080/swagger-ui/
+
+Rebuild and restart the server. And your problem is solved!
